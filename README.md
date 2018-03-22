@@ -1,7 +1,7 @@
 # Simulation-of-Sperm-Whales-Species
 
-## Initial gaol
-The initial gaol is to realize one season. If the process is advance, we can try ten 
+## Initial goal
+The initial goal is to realize one season. If the process is advance, we can try ten 
 years.
 
 ## Class
@@ -17,6 +17,8 @@ The mechanism is:
 Every thread schedule its own events. Because we are using threads, we DO NOT using
 communication. Each thread can directly call the specific object function to modify
 the value. The shared value must be protected by the lock.
+
+The examples are marine mammals and sperm whales consume food.
 
 The first step is to construct the functions in each class.
 
