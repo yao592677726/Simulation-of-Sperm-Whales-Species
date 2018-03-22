@@ -24,5 +24,5 @@ The first step is to construct the functions in each class.
 Then construct the thread function in the main after engine class is constructed. You can use main function to test if 
 functions in your process works.
 
-The event engine class is under constructed.
+The event engine class is under constructed.(Yes)
 
