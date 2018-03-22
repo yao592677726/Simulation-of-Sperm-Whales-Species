@@ -1,14 +1,13 @@
 /*
  * Created by Zeyu Chen 03/10/2018
- *
  */
 
 public class Mammals {
-    String name;
-    int number;
-    int demand;
-    double reprorate;
-    double deathrate;
+    String name;      // type of the animal
+    int number;       // number of the species
+    int demand;       // demand of the food
+    double reprorate; // reproduce rate
+    double deathrate; // death rate
 
     public Mammals() {
     }
@@ -32,3 +31,4 @@ public class Mammals {
         return deathrate;
     }
 }
+
