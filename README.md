@@ -11,7 +11,7 @@ Killer Whales, Zeyu CHen
 
 Sperm Whales, Taoyouwei Gao
 
-Marine Mammals, Weihua Zhu test test
+Marine Mammals, Weihua Zhu
 
 The mechanism is:
 Every thread schedule its own events. Because we are using threads, we DO NOT using
